@@ -1,6 +1,5 @@
 
-# DIO | Formação web3 fundamentals 
-
+# Nft | NFT colletction 
 Neste Desafio criamos um Token Não Fungível, o famoso NFT, na Blockchain Polygon utilizando a plataforma OpenSea. 
 
 ## 🔎 Veja como ficou
