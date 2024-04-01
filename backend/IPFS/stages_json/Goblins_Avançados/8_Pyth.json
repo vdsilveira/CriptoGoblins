@@ -1,0 +1,23 @@
+{
+    "name": "Goblin_of_Pyth_network",
+    "description": "Advanced Stage",
+    "image": "https://ivory-total-gecko-975.mypinata.cloud/ipfs/QmdigE3bHyvvei2VS8jdzSfiTLPpD1YSHM1oLUuBMU2QD4/Goblin_of_Pyth_network.avif",
+    "attributes": [
+        {
+            "trait-type": "Strength",
+            "value": 9    
+        },
+        {
+            "trait-type": "Agility",
+            "value": 8
+        },
+        {
+            "trait-type": "Magic",
+            "value":10
+        },
+        {
+            "trait-type": "Intelligence",
+            "value":8
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Goblin_of_Solana",
+    "description": "Intermediate Stage",
+    "image": "https://ivory-total-gecko-975.mypinata.cloud/ipfs/QmdigE3bHyvvei2VS8jdzSfiTLPpD1YSHM1oLUuBMU2QD4/Goblin_of_Solana.avif",
+    "attributes": [
+        {
+            "trait-type": "Strength",
+            "value": 6     
+        },
+        {
+            "trait-type": "Agility",
+            "value": 7
+        },
+        {
+            "trait-type": "Magic",
+            "value":5
+        },
+        {
+            "trait-type": "Intelligence",
+            "value":6
+        }
+    ]
+}
