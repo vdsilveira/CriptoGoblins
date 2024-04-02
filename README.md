@@ -22,12 +22,12 @@ Explore nossa coleção, mergulhe na experiência e junte-se à comunidade de co
 
 Nosso contrato inteligente é responsável pela criação e gestão dos NFTs em nossa coleção de Goblins criptográficos. Aqui estão alguns detalhes sobre o contrato:
 
-- **Nome do Contrato:** GoblinNFT
-- **Endereço na Blockchain:** [0x66d489F333FE43606eA921e636B39Bf32a9F0d6d]
+- **Nome do Contrato:** CryptoGoblinsNFT
 - **Funcionalidades Principais:**
   - Criação de novos NFTs.
   - Transferência de propriedade dos NFTs entre carteiras.
   - Consulta de metadados dos NFTs.
-  - Mudança de atributos e evoluçao dos nfts
+  - Mudança de atributos
+  - Evoluçao dos nfts
 
 Para mais detalhes sobre o funcionamento do contrato e sua implementação, consulte o código-fonte disponível em nosso repositório.
