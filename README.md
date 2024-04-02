@@ -10,35 +10,7 @@ Neste desafio, embarcamos em uma jornada para criar Tokens Não Fungíveis (NFTs
 
 Confira abaixo uma prévia exclusiva de alguns dos Goblins criptográficos que compõem nossa coleção:
 
-### Goblin 1
-- **Nome:** Grok
-- **Tipo:** Guerreiro
-- **Elemento:** Fogo
-- **Força:** 80
-- **Agilidade:** 60
-- **Inteligência:** 40
-
-![Grok](https://raw.githubusercontent.com/vdsilveira/DIO-Forma-o-web3-fundamentals-/main/grok.png)
-
-### Goblin 2
-- **Nome:** Zix
-- **Tipo:** Mago
-- **Elemento:** Ar
-- **Força:** 40
-- **Agilidade:** 60
-- **Inteligência:** 80
-
-![Zix](https://raw.githubusercontent.com/vdsilveira/DIO-Forma-o-web3-fundamentals-/main/zix.png)
-
-### Goblin 3
-- **Nome:** Snarg
-- **Tipo:** Ladrão
-- **Elemento:** Terra
-- **Força:** 60
-- **Agilidade:** 80
-- **Inteligência:** 40
-
-![Snarg](https://raw.githubusercontent.com/vdsilveira/DIO-Forma-o-web3-fundamentals-/main/snarg.png)
+![Prévia da Coleção]([link_para_imagem_da_previa](https://raw.githubusercontent.com/vdsilveira/DIO-Forma-o-web3-fundamentals-/main/Captura%20de%20tela%20de%202023-11-18%2012-11-19.png))
 
 ## 🔗 Links Úteis
 
