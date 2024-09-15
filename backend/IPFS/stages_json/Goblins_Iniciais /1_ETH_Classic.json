@@ -1,0 +1,23 @@
+{
+    "name": "Goblin_of_ Etherium_Classic",
+    "description": "Initial Stage",
+    "image": "https://ivory-total-gecko-975.mypinata.cloud/ipfs/QmdigE3bHyvvei2VS8jdzSfiTLPpD1YSHM1oLUuBMU2QD4/Goblin_of_%20Etherium_Classic.avif",
+    "attributes": [
+        {
+            "trait-type": "Strength",
+            "value": 1        
+        },
+        {
+            "trait-type": "Agility",
+            "value": 1
+        },
+        {
+            "trait-type": "Magic",
+            "value": 1
+        },
+        {
+            "trait-type": "Intelligence",
+            "value": 0
+        }
+    ]
+}

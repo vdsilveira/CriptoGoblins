@@ -1,0 +1,23 @@
+{
+    "name": "Goblin_of_ BITCOIN",
+    "description": "Master Stage",
+    "image": "https://ivory-total-gecko-975.mypinata.cloud/ipfs/QmdigE3bHyvvei2VS8jdzSfiTLPpD1YSHM1oLUuBMU2QD4/Goblin_of_Bitcoin.avif",
+    "attributes": [
+        {
+            "trait-type": "Strength",
+            "value": 16    
+        },
+        {
+            "trait-type": "Agility",
+            "value":14
+        },
+        {
+            "trait-type": "Magic",
+            "value":15
+        },
+        {
+            "trait-type": "Intelligence",
+            "value":16
+        }
+    ]
+}

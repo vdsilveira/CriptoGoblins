@@ -1,0 +1,23 @@
+{
+    "name": "Goblin_of_ETH",
+    "description": "Master Stage",
+    "image": "https://ivory-total-gecko-975.mypinata.cloud/ipfs/QmdigE3bHyvvei2VS8jdzSfiTLPpD1YSHM1oLUuBMU2QD4/Goblin_of_Etherium.avif",
+    "attributes": [
+        {
+            "trait-type": "Strength",
+            "value": 13    
+        },
+        {
+            "trait-type": "Agility",
+            "value": 12
+        },
+        {
+            "trait-type": "Magic",
+            "value":11
+        },
+        {
+            "trait-type": "Intelligence",
+            "value":11
+        }
+    ]
+}
