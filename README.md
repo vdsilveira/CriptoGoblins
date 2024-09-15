@@ -11,7 +11,7 @@ Neste desafio, embarcamos em uma jornada para criar Tokens Não Fungíveis (NFTs
 
 Confira abaixo uma prévia exclusiva de alguns dos Goblins criptográficos que compõem nossa coleção:
 
-![Prévia da Coleção](https://raw.githubusercontent.com/vdsilveira/DIO-Forma-o-web3-fundamentals-/main/Captura%20de%20tela%20de%202023-11-18%2012-11-19.png)
+![Prévia da Coleção](./Captura%20de%20tela%20de%202023-11-18%2012-11-19.png)
 
 ## 🔗 Links Úteis
 
