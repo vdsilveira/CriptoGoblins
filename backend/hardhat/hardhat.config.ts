@@ -11,7 +11,10 @@ const config: HardhatUserConfig = {
     sepolia: {
       url: `https://sepolia.infura.io/v3/${process.env.INFURA_PROJECT_ID}`,
       accounts: [PRIVATE_KEY] // Coloque a chave privada dentro de um array
-    }
+    },
+   
+     
+
   }
 };
 
