@@ -57,16 +57,17 @@ export default function Header({
         </div>
 
         <div className="flex space-x-4">
-          {isConnected && !hideMintButton && (
-            <MintBtn />
-          )}
-          {isConnected && !hideDashBoardButton && (
-            <DashBoardBtn />
-          )}
-           {isConnected && !hideHomeButton && (
-            <HomeBtn />
-          )}
+            {isConnected && !hideMintButton && (
+              <MintBtn />
+            )}
+            {isConnected && !hideDashBoardButton && (
+              <DashBoardBtn />
+            )}
+            {!hideHomeButton && (
+              <HomeBtn />
+            )}
         </div>
+
 
         <div className="flex items-center justify-end space-x-4">
           {!hideAboultUsButton && (

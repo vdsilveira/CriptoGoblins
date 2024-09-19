@@ -33,10 +33,13 @@ contract CryptoGoblinsNFT is ERC721, ERC721URIStorage {
     // Mapeia o endereço do proprietário para uma lista de IDs de tokens que ele possui
     mapping(address => uint256[]) public ownedTokens;
 
-    function safeMint() public {
+    function safeMint() public returns(uint256 tokenId) {
   
             uint256 tokenId = _tokenIdCounter;
             _tokenIdCounter++;
+
+           
+
 
 
         
@@ -75,6 +78,8 @@ contract CryptoGoblinsNFT is ERC721, ERC721URIStorage {
 
             // Adiciona o novo token ao mapping de tokens do proprietário
             ownedTokens[msg.sender].push(tokenId);
+
+            return tokenId;
     }   
 
 function getOwnedTokens( ) public view returns (uint256[] memory) {
