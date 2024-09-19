@@ -10,7 +10,7 @@ export default function About() {
 
       <div>
         
-        <Miror/> {/* Atribua um valor de z-index maior */}
+        <Miror/> 
       </div>
 
     
